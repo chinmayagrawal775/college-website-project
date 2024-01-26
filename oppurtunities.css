@@ -1,0 +1,48 @@
+p
+{
+	padding:30px;
+	padding-bottom:50px;
+}
+
+.container
+{
+	padding:30px;
+	padding-left:80px;
+	padding:0px;
+}
+
+.container h1
+{
+	padding-bottom:20;
+	padding-top:20px;
+	padding-left:50px;
+}
+
+.container  ul 
+{
+	padding-left:140px;
+	padding-bottom:30px;
+	padding-top:30px;
+}
+
+.container ul li
+{
+	padding-bottom:15;
+	font-size : 20px;
+	font-weight:bold;
+	background:#0004;
+}
+
+.container img
+{
+	padding:15px
+
+}
+
+/* h1 */
+/* { */
+	/* border-left: 50px solid red; */
+	/* border-top: 5px solid red; */
+	/* border-bottom: 5px solid red; */
+	/* background-color: blue; */
+/* } */

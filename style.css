@@ -1,0 +1,123 @@
+*
+{
+	margin:0px;
+	padding : 0px;
+	font-family: verdana;
+	background-size:cover;
+	
+}
+
+.leftside
+{
+	width:20%;
+	/* height:100%; */
+	/* background-color:red; */
+	padding:20px;
+	float:left;
+	
+}
+
+.leftside ul li
+{
+	list-style:none;
+	padding-top:20px;
+	padding-bottom:10px
+}
+
+.leftside .HODdesk h2
+{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+.actualcontent
+{
+	width:73%;
+	/* height:100%; */
+	/* background-color:yellow; */
+	padding:20px;
+	float:left;
+}
+
+
+
+
+/* actual content */
+
+.actualcontent h1
+{
+	padding-bottom:40px;
+	padding-top:40px;
+	font-size:38px;
+}
+
+.actualcontent h3
+{
+	font-size:30px;
+}
+
+.actualcontent ul 
+{
+	/* padding-left:140px; */
+	padding-bottom:30px;
+	padding-top:30px;
+}
+
+.actualcontent ul li
+{
+	padding-bottom:15;
+	/* font-size : 20px; */
+	/* font-weight:bold; */
+	background:#0004;
+}
+
+.actualcontent p 
+{
+	padding-bottom:30px;
+}
+
+/* about me  */
+.aicontainer img
+{
+	float:left;
+	border-radius:50%;
+	padding:3%;
+}
+
+.acontainer
+{
+	padding:50px;
+}
+
+
+
+.stick
+{
+	width:10px;
+	height:auto;
+	background-color:red; 
+	float:left;
+	padding-top:10px;
+	padding-bottom:10px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .HODdesk */
+/* { */
+	/* text-align:left; */
+	/* display:inline-block; */
+/* } */
